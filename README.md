@@ -186,7 +186,7 @@ M.Sc. Statistics
 University of Kerala
 
 * LinkedIn: *(linkedin.com/in/aseem-s-613781403)*
-* GitHub: *(aseems2019-ship-it - Overview)*
+* GitHub: *(aseems2019-ship-it/breast-cancer-prediction-ml.git)*
 
 ---
 
